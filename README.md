@@ -22,3 +22,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dipanshumodi31/dipanshumodi31/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+
+---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=dipanshumodi31)](https://github.com/ryo-ma/github-profile-trophy)
